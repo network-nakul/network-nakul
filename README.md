@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Nakul Gaur, an aspiring Network Engineer with a strong foundation in networking concepts and hands-on experience. My GitHub profile showcases a variety of projects focused on networking, including configurations and cloud-based networking solutions. I am passionate about expanding my expertise in network security, cloud computing, and scripting.
+Hi, I'm Nakul Gaur, an aspiring Cloud & Network Engineer with a strong foundation in networking concepts and hands-on experience. My GitHub profile showcases a variety of projects focused on networking, including configurations and cloud-based networking solutions. I am passionate about expanding my expertise in network security, cloud computing, and scripting.
 
 ## Skills
 - **Networking**: Proficient in core networking concepts and practical applications.
