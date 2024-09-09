@@ -9,7 +9,7 @@ Hi, I'm Nakul Gaur, an aspiring Cloud & Network Engineer with a strong foundatio
 - **Linux**: Skilled in Linux administration and operations.
 - **Check Point**: Familiar with Check Point Firewall configurations and security policies.
 - **Server Administration**: Expertise in managing and configuring server environments.
-- **Python**: Competent in scripting and automating tasks with Python.
+  
 
 ## Projects
 - Check out my projects on [GitHub](https://github.com/network-nakul) to see my work in networking configurations and cloud-based solutions.
