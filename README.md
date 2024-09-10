@@ -12,7 +12,7 @@ Hi, I'm Nakul Gaur, an aspiring Cloud & Network Engineer with a strong foundatio
   
 
 ## Projects
-- Check out my projects on [GitHub](https://github.com/network-nakul) to see my work in networking configurations and cloud-based solutions.
+- Check out my projects on [GitHub](https://github.com/network-nakul?tab=repositories) to see my work in networking configurations and cloud-based solutions.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gaurnakul)
