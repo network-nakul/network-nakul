@@ -1,19 +1,27 @@
-# About Me
+# Hi, I'm Nakul Gaur 
 
-Hi, I'm Nakul Gaur, an aspiring Cloud & Network Engineer with a strong foundation in networking concepts, cloud technologies, and hands-on experience. My GitHub profile showcases a variety of projects focused on networking and cloud-based solutions, including configurations, and security implementations. I am passionate about expanding my expertise in network security, cloud computing, and scripting.
+## About Me
+I'm an IT enthusiast currently interning at Trimbak InfoTech, with a strong passion for **Cloud Computing**, **Networking**, and **Cybersecurity**. I enjoy exploring the latest technologies and innovations in these fields, aiming to deepen my knowledge and practical skills. My goal is to leverage my expertise to develop secure, scalable solutions and eventually establish my own tech business. I'm always eager to learn and stay updated with industry trends.
 
 ## Skills
-- **Networking**: Proficient in core networking concepts and practical applications.
-- **Network Security**: Knowledgeable in securing network infrastructures.
-- **Cloud Computing**: Experience in deploying and managing cloud infrastructure with AWS.
-- **Linux**: Skilled in Linux administration and operations.
-- **Check Point**: Familiar with Check Point Firewall configurations and security policies.
-- **Server Administration**: Expertise in managing and configuring server environments.
-  
+- **Cloud Computing:** Proficient in AWS services.
+- **Networking:** Experienced with Cisco networking protocols and configurations.
+- **Security:** Knowledgeable in Check Point Firewall and cybersecurity practices.
+- **Tools & Technologies:** Skilled in VMware, PNETLab, Check Point, and Git.
+- **Operating Systems:** Comfortable working with Linux and Windows environments.
 
 ## Projects
-- Check out my projects on [GitHub](https://github.com/network-nakul?tab=repositories) to see my work in networking configurations and cloud-based solutions.
+### 1. [AWS-EC2-Ubuntu-GUI-Setup](https://bit.ly/AWS-EC2-Ubuntu-GUI-Setup)
+- Developed a fully functional GUI on AWS EC2 running Ubuntu, demonstrating cloud computing deployment techniques.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/gaurnakul)
-- [network.nakulgaur@gmail.com](mailto:network.nakulgaur@gmail.com)
+### 2. [Secure Multi-Tier Web Application Deployment on AWS](https://github.com/network-nakul/AWS-Project)
+- Designed and implemented a secure, scalable multi-tier web application using AWS infrastructure.
+
+### 3. [Cisco Networking Projects](https://github.com/network-nakul/Cisco-Projects)
+- Configured and troubleshot various networking protocols in Cisco environments, showcasing network management skills.
+
+## Let's Connect!
+I'm open to collaborations and discussions about technology! Connect with me on [LinkedIn](www.linkedin.com/in/gaurnakul).
+
+## Contact
+You can reach me at: [network.nakulgaur@gmail.com](mailto:network.nakulgaur@gmail.com)
