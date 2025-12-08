@@ -1,7 +1,7 @@
 # Hi, I'm Nakul Gaur 
 
 ## About Me
-I'm an IT enthusiast currently interning at Trimbak InfoTech, with a strong passion for **Cloud Computing**, **Networking**, and **Cybersecurity**. I enjoy exploring the latest technologies and innovations in these fields, aiming to deepen my knowledge and practical skills. My goal is to leverage my expertise to develop secure, scalable solutions and eventually establish my own tech business. I'm always eager to learn and stay updated with industry trends.
+I'm an IT enthusiast with a strong passion for **Cloud Computing**, **Networking**, and **Cybersecurity**. I enjoy exploring the latest technologies and innovations in these fields, aiming to deepen my knowledge and practical skills. My goal is to leverage my expertise to develop secure, scalable solutions and eventually establish my own tech business. I'm always eager to learn and stay updated with industry trends.
 
 ## Skills
 - **Cloud Computing:** Proficient in AWS services.
