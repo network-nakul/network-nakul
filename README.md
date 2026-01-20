@@ -20,8 +20,4 @@ I'm an IT enthusiast with a strong passion for **Cloud Computing**, **Networking
 ### 3. [Cisco Networking Projects](https://github.com/network-nakul/Cisco-Projects)
 - Configured and troubleshot various networking protocols in Cisco environments, showcasing network management skills.
 
-## Let's Connect!
-I'm open to collaborations and discussions about technology! Connect with me on [LinkedIn](www.linkedin.com/in/gaurnakul).
 
-## Contact
-You can reach me at: [network.nakulgaur@gmail.com](mailto:network.nakulgaur@gmail.com)
