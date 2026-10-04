@@ -9,7 +9,7 @@ IT learner with foundational training in **Cloud Computing** and **Networking**,
 - **Cloud Computing:** Limited hands-on exposure to AWS services (S3, EC2, CloudFront)
 - **Networking:** Introductory understanding of networking concepts (IP, DHCP, DNS, VLAN, OSI Model, TCP/IP)
 - **Operating Systems:** Basic familiarity with Windows and Linux
-- Day-to-day IT troubleshooting: home networks, Wi-Fi issues, software installs, printer setups
+- **Day-to-day IT troubleshooting**: home networks, Wi-Fi issues, software installs, printer setups
 
 
 
@@ -25,7 +25,7 @@ IT learner with foundational training in **Cloud Computing** and **Networking**,
 
 ### 3. [Cisco Networking Projects](https://github.com/network-nakul/Cisco-Projects)
 - Completed routing, switching, and security lab simulations using Cisco Packet Tracer
-- Includes Inter-VLAN, DHCP, and ACL configuration exercises
+- Includes Inter-VLAN, DHCP, and SSH configuration exercises
 - Part of Cloud Computing Diploma curriculum (2023–2024)
 
 
